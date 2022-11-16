@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A;
+}
+
+.score {
+    background: #080001;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: normal;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    line-height: 127px;
+    left: 100px;
+    height: 120px;
+    top: 125px;
+    font-weight: 400;
+    margin: 20px;
+    text-align: center;
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 90%;
+    top: 68px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 90%;
+/* identical to box height, or 90% */
+
+    text-align: center;
+
+    color: #EEEEEE;
+}
+
+button {
+    background: none;
+    color: #9AABD8;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    width: 30px;
+    height: 25.77px;
+    left: 89px;
+    top: 280px;
+    text-align: center;
+    line-height: 28px;
+      
+    box-sizing: border-box;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    left: 82px;
+    top: 271px;
+    
+}
+
+set0 {
+    background: none;
+    color: #9AABD8;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    width: 50px;
+    height: 40px;
+    left: 100px;
+    top: 280px;
+    text-align: center;
+    line-height: 40px;
+      
+    box-sizing: border-box;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    left: 82px;
+    top: 300px;
+}
